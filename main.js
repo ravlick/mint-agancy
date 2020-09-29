@@ -8,7 +8,7 @@ function outNum(num , elem){
     let t = Math.round(time/(num/step));
     let interval = setInterval(() => {
         n = n + step;
-        if(n == num){
+        if(n === num){
             clearInterval(interval);
         }
         onne.innerHTML = n;
@@ -19,6 +19,3 @@ outNum(8 , 'out-2');
 outNum(50 , 'out-3');
 outNum(10 , 'out-4');
 
-function myFunction() {
-    document.getElementById(".active").innerHTML = "Hello World";
-}
