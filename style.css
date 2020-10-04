@@ -362,28 +362,6 @@ header{
     background: var(--primary-mint-tints);
     padding:60px 0;
 }
-/*#home-form input{*/
-/*    width:25%;*/
-/*    border-bottom:2px solid #9E9E9E;*/
-/*    border-left:1px solid transparent;*/
-/*    border-right:1px solid transparent;*/
-/*    border-top:1px solid transparent;*/
-/*    font-weight: 500;*/
-/*    font-size: 17px;*/
-/*    line-height: 25px;*/
-/*    color: #9E9E9E;*/
-/*}*/
-/*.btn-form{*/
-/*    background: #00C2CB;*/
-/*    border-radius: 5px;*/
-/*    padding:15px 50px;*/
-/*    color: #F2F2F2!important;*/
-/*    font-weight: 600;*/
-/*    font-size: 17px;*/
-/*    line-height: 28px;*/
-/*    text-align: center;*/
-/*    border-bottom:1px solid transparent!important;*/
-/*}*/
 
 .form-row {
     position: relative;
@@ -548,6 +526,146 @@ hr{
     text-align: center;
     color: #F2F2F2;
 }
+.last-news-title h2{
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 38px;
+    color:var(--primary-black);
+}
+.last-news-title{
+    border-bottom: 1px solid #3A9EFC;
+    padding:20px 0;
+}
+.last-news{
+    padding:30px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 40px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+.last-news-footer{
+    padding:20px 0;
+}
+.last-news-footer span{
+    color: #9EACB8;
+}
+.last-news-body p{
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 33px;
+    color:#575D63;
+}
+.last-news-body a{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 38px;
+    color:var(--primary-mint);
+}
+.single-popular-news{
+    border-left:1px solid #FCA000;
+    padding: 0 20px;
+    margin-top:25px;
+}
+.single-popular-news p{
+    font-weight: 500;
+    font-size: 19px;
+    color: #575D63;
+    margin-bottom: 0;
+}
+.single-popular-news span{
+    font-weight: 500;
+    font-size: 15px;
+    color: #9EACB8;
+}
+#news-last-date{
+    background: #E6FEFF;
+    padding:70px 0;
+}
+.filter-tag p{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+    color:var(--primary-black);
+}
+.tag-name{
+    max-width:150px;
+}
+.tag-name .tag{
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 38px;
+    text-transform: uppercase;
+    padding:5px;
+    cursor:pointer;
+}
+
+.tag-name .company-tag{
+    color:#3A9EFC;
+    border: 1px solid #3A9EFC;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.tag-name .engineering-tag{
+    color:#2A456D;
+    border:1px solid #2A456D;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.tag-name .features-tag{
+    color:#C363E5;
+    border:1px solid #C363E5;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.tag-name .marketing-tag{
+    color:#FCA000;
+    border:1px solid #FCA000;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.tag-name .sales-tag{
+    color:#1DC463;
+    border:1px solid #1DC463;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.popular-last-date{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    padding: 30px;
+    margin:30px 0;
+}
+.popular-last-date h2{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 38px;
+    color:var(--primary-black);
+}
+.popular-last-date-title{
+    padding:20px 0;
+    border-bottom:1px solid #3A9EFC;
+}
+.popular-last-date-body p{
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 33px;
+    color: #575D63;
+    margin-top: 20px;
+}
+.popular-last-date-body a{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 38px;
+    color:var(--primary-mint);
+}
+.popular-last-date-title span{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 38px;
+    color:#9EACB8;
+}
+
+
 
 
 @media (max-width:475px){
