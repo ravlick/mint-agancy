@@ -664,6 +664,54 @@ hr{
     line-height: 38px;
     color:#9EACB8;
 }
+#subscribers{
+    display:flex;
+    justify-content: center;
+    padding:40px 0;
+}
+.mail{
+    background: #00C2CB;
+    box-shadow: 0 4px 40px rgba(0, 0, 0, 0.05);
+    border-radius:50%;
+    width:85px;
+    height:85px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+}
+.subscribers h3{
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 38px;
+    color:var(--primary-black);
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+.subscribers p{
+    font-size: 22px;
+    text-align: center;
+    color: #9EACB8;
+}
+.form-subscribers form input:last-child{
+    background: var(--primary-mint);
+    color:#F2F2F2;
+    border-radius: 5px;
+    padding:10px 35px;
+    font-weight: 600;
+    font-size: 17px;
+    text-align: center;
+    border-color:var(--primary-mint);
+}
+.form-subscribers form input:first-child{
+    border-bottom: 1px solid #9E9E9E;
+    border-top:1px solid transparent;
+    border-left:1px solid transparent;
+    border-right:1px solid transparent;
+    margin-right:20px;
+    padding-bottom:10px;
+}
 
 
 
