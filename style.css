@@ -727,4 +727,10 @@ hr{
     .footer-menu ul{
         flex-direction: column;
     }
+    .form-subscribers form{
+        text-align: center;
+    }
+    .form-subscribers form input{
+        margin:10px;
+    }
 }
