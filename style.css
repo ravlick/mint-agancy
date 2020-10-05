@@ -761,6 +761,59 @@ hr{
 .single-blog-footer{
     position:relative;
 }
+#keysmain{
+    padding:100px 0;
+}
+#keysmain h1{
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 51px;
+    text-align: center;
+    color:var(--primary-black);
+}
+#keysmain p{
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+    color:#000;
+}
+.keys-btn{
+    max-width:650px;
+    display:flex;
+    justify-content: center;
+    margin:auto;
+}
+.all-keys{
+    width:191px;
+    background: var(--primary-mint);
+    border: 2px solid #00C2CB;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding:7px 15px;
+    color:#fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin:9px;
+}
+.ppc-keys{
+    border: 2px solid #00C2CB;
+    box-sizing: border-box;
+    border-radius: 8px!important;
+    padding:7px 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    color:var(--primary-mint);
+    width:100px;
+    margin:9px;
+}
+
+
+
+
+
+
 
 @media (max-width:475px){
     .child{
