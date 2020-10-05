@@ -902,6 +902,44 @@ hr{
     line-height: 26px;
     color:var(--primary-black);
 }
+.stages-title h2{
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 26px;
+    text-align: center;
+    color:var(--primary-black);
+    text-transform: uppercase;
+}
+#stages{
+    padding:60px 0;
+}
+.stages-title p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color:var(--primary-black);
+    margin-top: 15px;
+}
+.stages-list .list-list{
+    display:flex;
+    margin:12px 0;
+    align-items: center;
+}
+.stages-list p{
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    margin-left: 25px;
+    color:var(--primary-black);
+}
+.stages-list span{
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 26px;
+    color:var(--primary-mint);
+
+}
 
 
 
