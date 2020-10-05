@@ -19,9 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed0fd14e-f86e-4755-b198-5303290ab508" name="Default Changelist" comment="page keys finish img push">
-      <change afterPath="$PROJECT_DIR$/single-keys.html" afterDir="false" />
+    <list default="true" id="ed0fd14e-f86e-4755-b198-5303290ab508" name="Default Changelist" comment="start page single-keys">
+      <change afterPath="$PROJECT_DIR$/image/bg-single.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/info.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-keys.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-keys.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,7 @@
       <workItem from="1601557282791" duration="2814000" />
       <workItem from="1601736350748" duration="5325000" />
       <workItem from="1601814195438" duration="10410000" />
-      <workItem from="1601900359570" duration="5874000" />
+      <workItem from="1601900359570" duration="7508000" />
     </task>
     <task id="LOCAL-00001" summary="home page start section blog">
       <created>1601360283118</created>
@@ -139,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601910885474</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="start page single-keys">
+      <created>1601911132858</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601911132858</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +181,8 @@
     <MESSAGE value="section keys" />
     <MESSAGE value="page keys finish" />
     <MESSAGE value="page keys finish img push" />
-    <option name="LAST_COMMIT_MESSAGE" value="page keys finish img push" />
+    <MESSAGE value="start page single-keys" />
+    <option name="LAST_COMMIT_MESSAGE" value="start page single-keys" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1151" y="296" width="449" height="522" key="FileChooserDialogImpl" timestamp="1601366837122">
@@ -187,10 +198,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="738" y="231" width="505" height="651" key="Github.UntrackedFilesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601360019790" />
-    <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2" timestamp="1601910892865">
+    <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2" timestamp="1601911141002">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1601910892865" />
+    <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1601911141002" />
     <state x="673" y="285" key="Vcs.Push.Dialog.v2/72.27.2872.1053@72.27.2872.1053" timestamp="1601383400764" />
     <state x="776" y="467" width="430" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601740974230">
       <screen x="72" y="27" width="1848" height="1053" />
